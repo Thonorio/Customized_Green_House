@@ -1,5 +1,5 @@
  - Protocolo de difusão de Informação
-	-> Rest / Mqtt (to be decided)
+	-> Mqtt (to be decided)
  
  - Web  
  	- Backend
